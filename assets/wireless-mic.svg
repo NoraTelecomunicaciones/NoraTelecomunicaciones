@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22" height="22" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+  <!-- Logo NDI — activo: texto gold, fondo transparente, llena el ancho -->
+  <text x="11" y="15.3" text-anchor="middle"
+        font-family="DejaVu Sans, Sans, sans-serif" font-size="8.8" font-weight="bold"
+        fill="#ffd700">NDI</text>
+</svg>
